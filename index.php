@@ -11,11 +11,11 @@
 <body>
     <div class="position-absolute top-50 start-50 translate-middle">
             <div class="shadow p-3 mb-5 bg-body-tertiary rounded text-center">
-                <h2>Biodata</h2><hr>
+                <?php echo "<h2>Biodata</h2><hr>
                 Nama : Anak Agung Ngurah Agung Ari Gunayasa<br>
                 Asal Perguruan Tinggi : ITB STIKOM Bali<br>
                 Jurusan : Sistem Informasi<br>
-                Activity : Full Stack Web Developer
+                Activity : Full Stack Web Developer"; ?>
             </div>
     </div>
 </body>
